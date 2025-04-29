@@ -1,5 +1,5 @@
 A Little Setup here for the Optical Character Recognition
-Make sure to check the installation for tesseract base on on your OS specification
+Make sure to check the installation for tesseract base on on your OS specification.
 
 
 #macos
