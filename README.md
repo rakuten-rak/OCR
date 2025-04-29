@@ -11,6 +11,8 @@ brew install tesseract
 
 check this documentation https://github.com/UB-Mannheim/tesseract/wiki
 
+After you can create a virtual env or by using conda package.
+
 However some instance on windows you need to add the tesseract path to the current path of the project
 you can do by setting it up by adding the varaiables below or create a sperate class and import it to the main.py
 
